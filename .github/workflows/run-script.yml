@@ -2,7 +2,7 @@ name: Run SharePoint Sync Script
 
 on:
   schedule:
-    - cron: '*/6 * * * *'  # Runs every 20 minutes
+    - cron: '*/1440 * * * *'  # Runs every 20 minutes
   workflow_dispatch:        # Allows manual trigger
 
 jobs:
