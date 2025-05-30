@@ -1,3 +1,4 @@
 pandas
 openpyxl
+xlrd
 office365-rest-python-client
