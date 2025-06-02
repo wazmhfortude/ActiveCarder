@@ -3,8 +3,7 @@
 site_url = "https://brandix.sharepoint.com/sites/ManufacturingTools"
 folder_url = "/sites/ManufacturingTools/Shared Documents/UATCARDER"
 list_name = "Employee Details_1"
-username = "alchemy-scm-pbi-admin@brandix.com"
-password = "b1L@0BSz!.x7"
+
 
 # Sri Lanka timezone
 sri_lanka_tz = timezone(timedelta(hours=5, minutes=30))
