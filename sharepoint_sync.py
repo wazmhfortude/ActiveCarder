@@ -1,12 +1,3 @@
-from office365.runtime.auth.authentication_context import AuthenticationContext
-from office365.sharepoint.client_context import ClientContext
-from office365.sharepoint.files.file import File
-from office365.sharepoint.listitems.caml.query import CamlQuery  
-import pandas as pd
-from io import BytesIO
-from datetime import datetime, timedelta, timezone
-from zipfile import BadZipFile
-import time
 
 # SharePoint config
 site_url = "https://brandix.sharepoint.com/sites/ManufacturingTools"
